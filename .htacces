@@ -1,0 +1,2 @@
+RewriteEngine ON
+RewriteRule ^article_solo/(.*).html article_solo.php?url=$1
